@@ -3,6 +3,6 @@
 實作實驗室圖書管理系統 \
 
 # Database
-People 實驗室成員的table
-book 書本的table
-reserve 預約書本的成員清單
+People 實驗室成員的table \
+book 書本的table \
+reserve 預約書本的成員清單 \
